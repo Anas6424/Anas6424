@@ -31,6 +31,7 @@
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
+![DB Browser](https://img.shields.io/badge/-DB%20Browser-333333?style=for-the-badge&logo=sqlite)
 
 #### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
@@ -43,7 +44,10 @@
 ### 🔗 Socials
 
 <p align="center">
-  <a href="mailto:anas6424.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitch.tv/anas6424"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Anas6424v1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@anas_6424"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://x.com/Anas6424"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
