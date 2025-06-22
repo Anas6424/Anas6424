@@ -23,15 +23,21 @@
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
+![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B)
 
 #### 🔧 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vue.js)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
 
 #### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
 ![DB Browser](https://img.shields.io/badge/-DB%20Browser-333333?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/-Oracle%20DB-333333?style=for-the-badge&logo=oracle)
 
 #### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
