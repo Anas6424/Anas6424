@@ -1,61 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Anas6424</h1>
-<h3 align="center">A passionate developer working with Python, Java, JS, and DevOps tools</h3>
-
----
-
-### 🌍 Languages
-
-- 🇫🇷 French (native)
-- 🇺🇸 English (professional)
-
-### 📫 Contact
-
-- 📧 anas6424.pro@gmail.com
+<h1 align="center">Hi 👋, I'm Anas6424</h1>
+<p align="center">Developer focused on backend, DevOps, and real-world applications</p>
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
-![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B)
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql)
 
-#### 🔧 Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vue.js)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=for-the-badge&logo=spring)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=for-the-badge&logo=springboot)
-![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
-
-#### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
-![DB Browser](https://img.shields.io/badge/-DB%20Browser-333333?style=for-the-badge&logo=sqlite)
-![Oracle](https://img.shields.io/badge/-Oracle%20DB-333333?style=for-the-badge&logo=oracle)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=for-the-badge&logo=terraform)
+#### ⚙️ Frameworks & Tools  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=for-the-badge&logo=springboot)
+![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
 ---
 
-### 🔗 Socials
+### 📂 Featured Projects
 
-<p align="center">
-  <a href="https://twitch.tv/anas6424"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Anas6424v1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@anas_6424"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://x.com/Anas6424"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+- 🎛️ [**C-Synth**](https://github.com/Anas6424/C-Synth)  
+  *Monophonic audio synthesizer in C++ with real-time DSP & ImGui interface*
+
+- 🧑‍🏫 [**Attendo**](https://github.com/Anas6424/attendo)  
+  *Vue + Supabase app for managing university attendance and sessions*
+
+- ☁️ [**Microservices DevOps (Azure)**](https://github.com/Anas6424/microservices-devops-azure)  
+  *Full DevOps stack: Docker, GitLab CI, and Terraform on Azure with Java & Python microservices*
 
 ---
 
-<p align="center">Thanks for visiting my profile ❤️</p>
+### 🌍 Languages  
+- 🇫🇷 French (native)  
+- 🇺🇸 English (professional)
+
+---
+
+### 📫 Contact  
+**Email**: anas6424.pro@gmail.com
+
+---
+
+<p align="center">Thanks for checking out my work.</p>
