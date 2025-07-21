@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anas6424</h1>
-<p align="center">Future freelance cybersecurity consultant | OSCP in progress | Ex-developer turned offensive security enthusiast</p>
-
----
-
 ## 🧠 About Me
 
 I'm currently transitioning from software development (C++, DevOps, Vue.js) into offensive security and cloud infrastructure auditing.
