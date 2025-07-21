@@ -1,50 +1,48 @@
 <h1 align="center">Hi 👋, I'm Anas6424</h1>
-<p align="center">Developer focused on backend, DevOps, and real-world applications</p>
+<p align="center">Future freelance cybersecurity consultant | OSCP in progress | Ex-developer turned offensive security enthusiast</p>
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 About Me
 
-#### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql)
+I'm currently transitioning from software development (C++, DevOps, Vue.js) into offensive security and cloud infrastructure auditing.
 
-#### ⚙️ Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=for-the-badge&logo=springboot)
-![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
-![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-333?style=for-the-badge&logo=terraform)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+I'm preparing for the **OSCP** and **AWS Security Specialty** while building a strong practical skillset through CTFs, real-world labs, and hands-on automation.
+
+I focus on delivering clean, actionable security insights to dev teams, startups, and SaaS builders — no fluff, just results.
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Core Skills & Tools
 
-- 🎛️ [**C-Synth**](https://github.com/Anas6424/C-Synth)  
-  *Monophonic audio synthesizer in C++ with real-time DSP & ImGui interface*
-
-- 🧑‍🏫 [**Attendo**](https://github.com/Anas6424/attendo)  
-  *Vue + Supabase app for managing university attendance and sessions*
-
-- ☁️ [**Microservices DevOps (Azure)**](https://github.com/Anas6424/microservices-devops-azure)  
-  *Full DevOps stack: Docker, GitLab CI, and Terraform on Azure with Java & Python microservices*
+- **Languages:** Python, Bash, JavaScript, C++
+- **Offensive Tools:** Burp Suite, Nmap, Nikto, Metasploit, HackTheBox, TryHackMe
+- **Cloud & Infra:** AWS, Docker, GitLab CI, Terraform, basic Azure
+- **DevSecOps:** Security automation in CI/CD, code-level vulnerability scanning
 
 ---
 
-### 🌍 Languages  
-- 🇫🇷 French (native)  
-- 🇺🇸 English (professional)
+## 🔍 Focus Areas
+
+- Web application security audits (OWASP Top 10)
+- AWS cloud security analysis (IAM, S3, EC2 misconfigurations)
+- Red teaming foundations (privilege escalation, enumeration)
+- Building lightweight tools and automation for pentest workflows
 
 ---
 
-### 📫 Contact  
-**Email**: anas6424.pro@gmail.com
+## 📂 Selected Projects
+
+- 🎛️ [**C-Synth**](https://github.com/Anas6424/C-Synth) – Monophonic synthesizer (C++ DSP + ImGui)
+- 🧑‍🏫 [**Attendo**](https://github.com/Anas6424/attendo) – Vue.js + Supabase attendance tracker
+- ☁️ [**Microservices DevOps (Azure)**](https://github.com/Anas6424/microservices-devops-azure) – Full DevOps infra with CI/CD on Azure
 
 ---
 
-<p align="center">Thanks for checking out my work.</p>
+## 📫 Contact
+
+- **Email**: anas6424.pro@gmail.com
+
+---
+
+<p align="center">🔐 Breaking things (ethically). Automating. Learning. Executing.</p>
